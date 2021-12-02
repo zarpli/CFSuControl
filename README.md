@@ -31,8 +31,8 @@ Command Syntax: ```<STX><command><space><argument><ETX>```
 |command example|description|
 |---|---|
 |```PLAY audio.wav```|Play audio file called "audio.wav" in root directory|
-|```VOLUME 50```|Set the volume to 50 percent of normal|
-|```STOP```|Stop the currently playing media and clears the screen|
+|```VOLUME 50```|Set the volume to 50|
+|```STOP```|Stop the currently playing media|
 |```PTT 1```|Turn ON PPT Relay|
 
 # BS Response
