@@ -13,7 +13,7 @@ The following list shows the models that have been tested with this script, but 
   
 # Install
 
-Simply add this script and your content to the flash card and you can send the list of commands below to control playback.
+Simply add this [script](cfsound/cfsound.bas) and your content to the flash card and you can send the list of commands below to control playback.
 
 # Commands Supported
 
