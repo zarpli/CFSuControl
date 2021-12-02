@@ -26,7 +26,7 @@ The commands are case sensitive.
 |VOLUME|INT (0-60)|
 |PTT|ON:1 OFF:0|
 
-Command Syntax: ```<STX><command><space><argument><ETX>```
+Command Syntax: ```<STX><command><argument><ETX>```
 
 |command example|description|
 |---|---|
