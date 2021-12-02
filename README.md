@@ -86,7 +86,7 @@ Use the following project to use BrightSign unit connected to a PC running Windo
 
 [CFSuControl.ptp](docklight/CFSuControl.ptp)
 
-<img src=https://raw.githubusercontent.com/zarpli/BSuControl/main/images/docklight.png width="800">
+<img src=https://raw.githubusercontent.com/zarpli/CFSuControl/main/images/docklight.png width="800">
 
 # Use with Arduino
 
