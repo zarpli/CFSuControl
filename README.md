@@ -54,7 +54,7 @@ The RS-232 interface is a male DE9 connector. The following table illustrates th
 
 |Pin|Description|Pin|Description|
 |---|---|---|---|
-|1|NC|2|Receive data into the device|
+|1||2|Receive data into the device|
 |3|Transmit data out of the device|4||
 |5|Ground|6||
 |7||8||
