@@ -24,7 +24,7 @@ The commands are case sensitive.
 |PLAY|FILE|
 |STOP|none|
 |VOLUME|INT (0-60)|
-|PTT|ON:1 OFF:0|
+|PTT|ON: 1 OFF: 0|
 
 Command Syntax: ```<STX><command><argument><ETX>```
 
