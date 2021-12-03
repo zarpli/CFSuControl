@@ -57,7 +57,7 @@ The RS-232 interface is a male DE9 connector. The following table illustrates th
 |1|NC|2|Receive data into the device|
 |3|Transmit data out of the device|4||
 |5|Ground|6||
-|7|RTS|8||
+|7||8||
 |9||||
 
 Here is the DA15 male as viewed from the front of the CFSound units.
