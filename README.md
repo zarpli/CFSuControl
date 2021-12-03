@@ -9,7 +9,7 @@ The following list shows the models that have been tested with this script, but 
 |Model|Serial Port Type|Firmware|BASIC|
 |---|---|---|---|
 |CFSound III |Onboard DE9 RS-232|2.35|1.22|
-|CFSound IV |Onboard DE9 RS-232|||
+|CFSound IV |Onboard DE9 RS-232||3.3.2|
   
 # Install
 
