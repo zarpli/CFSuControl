@@ -23,7 +23,7 @@ The commands are case sensitive.
 |---|---|
 |PLAY|FILE|
 |STOP|none|
-|VOLUME|INT (0-60)|
+|VOLUME|INT (0-100)|
 |PTT|ON: 1 OFF: 0|
 
 Command Syntax: ```<STX><command><argument><ETX>```
@@ -31,7 +31,7 @@ Command Syntax: ```<STX><command><argument><ETX>```
 |command example|description|
 |---|---|
 |```PLAY audio.wav```|Play audio file called "audio.wav" in root directory|
-|```VOLUME 50```|Set the volume to 50|
+|```VOLUME 50```|Set the volume to 50%|
 |```STOP```|Stop the currently playing media|
 |```PTT 1```|Turn ON PPT Relay|
 
