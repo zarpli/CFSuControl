@@ -107,6 +107,26 @@ Use the following project to use CFSound unit connected to a PC running Windows 
 
 [Media](https://github.com/zarpli/Media)
 
+# Time between commands
+
+In some versions of CF Sound units is need a time between commands.
+
+```C++
+...
+// set volume 10%
+volume(10)
+// delay 2 milliseconds
+delay(2)
+// play audio.wav
+play(audio.wav)
+// delay 2 milliseconds
+delay(2)
+// turn on built-in ptt relay
+ptt(1)
+// delay 2 milliseconds
+delay(2)
+...
+```
 # YouTube
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=j8EwE3pnMcg" target="_blank"><img src="http://img.youtube.com/vi/j8EwE3pnMcg/0.jpg" alt="YouTube" width="400" border="10"/></a>
