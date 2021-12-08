@@ -1,6 +1,6 @@
 # CFSuControl
 
-This script is designed to control CFsound units efficiently using any controller with a serial interface.
+This script is designed to control CFSound units efficiently using any controller with a serial interface.
 
 # Supported devices
 
@@ -93,7 +93,7 @@ The following diagram illustrates the behavior of the TX and RX signal:
 
 [Docklight](https://docklight.de/) is a testing, analysis and simulation tool for serial communication protocols.
 
-Use the following project to use BrightSign unit connected to a PC running Windows OS.
+Use the following project to use CFSound unit connected to a PC running Windows OS.
 
 [CFSuControl.ptp](docklight/CFSuControl.ptp)
 
