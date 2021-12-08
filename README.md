@@ -98,4 +98,4 @@ Use the following project to use BrightSign unit connected to a PC running Windo
 
 # YouTube
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=v_Xolq-GvfM" target="_blank"><img src="http://img.youtube.com/vi/v_Xolq-GvfM/0.jpg" alt="YouTube" width="400" border="10"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=j8EwE3pnMcg" target="_blank"><img src="http://img.youtube.com/vi/j8EwE3pnMcg/0.jpg" alt="YouTube" width="400" border="10"/></a>
