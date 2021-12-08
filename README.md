@@ -73,7 +73,7 @@ Modem (DCE) or a Terminal (DTE). As shipped, the CFSound-III is configured to be
 |3|RX (to unit)|TX (from unit)|
 |5|Ground(GND)|Ground(GND)|
 
-<img src=https://raw.githubusercontent.com/zarpli/BSuControl/main/images/CFSound-JB2.jpg width="500">
+<img src=https://raw.githubusercontent.com/zarpli/CFSuControl/main/images/CFSound-JB2.jpg width="500">
 
 # Signaling Settings
 
