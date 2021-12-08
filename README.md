@@ -64,6 +64,17 @@ Here is the DE-09 male as viewed from the front of the CFSound units.
 
 <img src=https://raw.githubusercontent.com/zarpli/BSuControl/main/images/DE-09-M.png width="300">
 
+The configuration of jumper block JB2 on the CFSound-III controls whether the serial port looks like a 
+Modem (DCE) or a Terminal (DTE). As shipped, the CFSound-III is configured to be DCE.
+
+|Pin|JB2 = DCE|JB2 = DTE|
+|---|---|---|
+|2|TX (from unit)|RX (to unit)|
+|3|RX (to unit)|TX (from unit)|
+|5|Ground(GND)|Ground(GND)|
+
+<img src=https://raw.githubusercontent.com/zarpli/BSuControl/main/images/CFSound-JB2.png width="500">
+
 # Signaling Settings
 
 The following are the default serial settings for a BrightSign player. They can be changed in the script.
