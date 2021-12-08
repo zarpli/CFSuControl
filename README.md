@@ -50,7 +50,7 @@ Unit responds automatically with **media_ended** (08h) when a file has finished 
 ```02h 08h 03h```
 
 # DE9 RS-232
-The RS-232 interface is a male DE9 connector. The following table illustrates the pinout.
+The RS-232 interface is a male DE-09 connector. The following table illustrates the pinout.
 
 |Pin|Description|Pin|Description|
 |---|---|---|---|
@@ -60,9 +60,9 @@ The RS-232 interface is a male DE9 connector. The following table illustrates th
 |7||8||
 |9||||
 
-Here is the DA15 male as viewed from the front of the CFSound units.
+Here is the DE-09 male as viewed from the front of the CFSound units.
 
-<img src=https://raw.githubusercontent.com/zarpli/BSuControl/main/images/DA-15_male.png width="300">
+<img src=https://raw.githubusercontent.com/zarpli/BSuControl/main/images/DE-09-M.png width="300">
 
 # Signaling Settings
 
