@@ -35,7 +35,7 @@ Command Syntax: ```<STX><command><argument><ETX>```
 |```STOP```|Stop the currently playing media|
 |```PTT 1```|Turn ON PPT Relay|
 
-# BS Response
+# CFS Response
 
 The response start with STX (02h) followed by the status byte and lastly an ETX (03h). 
   
@@ -48,6 +48,27 @@ When the unit starts up and has the script installed, the status **online** (02h
 Unit responds automatically with **media_ended** (08h) when a file has finished playing:
   
 ```02h 08h 03h```
+
+# Time between commands
+
+In some versions of CF Sound units is need a time between commands.
+
+```C++
+...
+// set volume 10%
+volume(10)
+// delay 2 milliseconds
+delay(2)
+// play audio.wav
+play(audio.wav)
+// delay 2 milliseconds
+delay(2)
+// turn on built-in ptt relay
+ptt(1)
+// delay 2 milliseconds
+delay(2)
+...
+```
 
 # DE9 RS-232
 The RS-232 interface is a male DE-09 connector. The following table illustrates the pinout.
@@ -107,26 +128,6 @@ Use the following project to use CFSound unit connected to a PC running Windows 
 
 [Media](https://github.com/zarpli/Media)
 
-# Time between commands
-
-In some versions of CF Sound units is need a time between commands.
-
-```C++
-...
-// set volume 10%
-volume(10)
-// delay 2 milliseconds
-delay(2)
-// play audio.wav
-play(audio.wav)
-// delay 2 milliseconds
-delay(2)
-// turn on built-in ptt relay
-ptt(1)
-// delay 2 milliseconds
-delay(2)
-...
-```
 # YouTube
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=j8EwE3pnMcg" target="_blank"><img src="http://img.youtube.com/vi/j8EwE3pnMcg/0.jpg" alt="YouTube" width="400" border="10"/></a>
