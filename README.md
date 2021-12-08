@@ -77,7 +77,7 @@ Modem (DCE) or a Terminal (DTE). As shipped, the CFSound-III is configured to be
 
 # Signaling Settings
 
-The following are the default serial settings for a BrightSign player. They can be changed in the script.
+The following are the default serial settings for a CFSound player. They can be changed in the script.
 |Default serial settings|
 |---|
 |Baud rate: 115200|
