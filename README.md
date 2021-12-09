@@ -6,10 +6,11 @@ This script is designed to control CFSound units efficiently using any controlle
 
 The following list shows the models that have been tested with this script, but it will surely work on another model in the same series as well. 
   
-|Model|SDRAM|Firmware|BASIC|
-|---|---|---|---|
-|CFSound III|4.20|2.35|1.22|
-|CFSound IV||3.3.2|
+|Model|REV|SDRAM|Firmware|BASIC|
+|---|---|---|---|---|
+|CFSound III|3A|4.20|2.35|1.22|
+|CFSound III|4A|4.34|2.35|1.34|
+|CFSound IV|||3.3.2|
   
 # Install
 
