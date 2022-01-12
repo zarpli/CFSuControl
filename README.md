@@ -9,7 +9,7 @@ The following list shows the models that have been tested with this script, but 
 |Model|REV|SDRAM|Firmware|BASIC|
 |---|---|---|---|---|
 |CFSound III|3A|4.20|2.35|1.22|
-|CFSound III|4A|4.34|2.35|1.34|
+|CFSound III|4A|4.39|2.35|1.34|
 |CFSound IV|||3.3.2|
   
 # Install
